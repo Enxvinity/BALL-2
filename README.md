@@ -1,1 +1,2 @@
-# BALL-2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
